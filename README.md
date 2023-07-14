@@ -1,6 +1,6 @@
-# Hello there!
+# Olá!
 
-Pequeno sitema (API REST) de usuários para que seja possível buscar todos os usuários, buscar por ID e inserir novo usuário. 
+Pequeno sitema (API REST) de usuários para que possibilita buscar todos os usuários por ID, bem como inserir novo usuário. 
 
 ![APM](https://img.shields.io/apm/l/demo)
 
